@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <html>
    
    <head>
@@ -20,3 +21,10 @@
       
    </body>
 </html>
+=======
+
+<?php
+ print("c++");
+print("d++");
+  ?>
+>>>>>>> dusra
