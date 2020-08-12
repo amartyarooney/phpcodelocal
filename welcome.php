@@ -1,5 +1,7 @@
 
 <?php
 
-print("lol");
+print("from ekaur");
+echo "from ekaur";
+
   ?>
