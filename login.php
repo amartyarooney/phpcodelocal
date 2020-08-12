@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <html>
    
    <head>
@@ -8,23 +8,16 @@
    <body>
       
       <?php
-         //echo $_COOKIE["name"]. "<br />";
+         echo $_COOKIE["name"]. "<br />";
          
          /* is equivalent to */
-        echo $HTTP_COOKIE_VARS["name"]. "<br />";
+        //echo $HTTP_COOKIE_VARS["name"]. "<br />";
          
-         //echo $_COOKIE["age"] . "<br />";
+         echo $_COOKIE["age"] . "<br />";
          
          /* is equivalent to */
-        echo $HTTP_COOKIE_VARS["age"] . "<br />";
+        //echo $HTTP_COOKIE_VARS["age"] . "<br />";
       ?>
       
    </body>
 </html>
-=======
-
-<?php
- print("c++");
-print("d++");
-  ?>
->>>>>>> dusra
