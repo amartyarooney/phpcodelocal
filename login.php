@@ -1,2 +1,5 @@
-print("c++");
+
+<?php
+ print("c++");
 print("d++");
+  ?>
